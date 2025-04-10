@@ -6,3 +6,6 @@ document.addEventListener('DOMContentLoaded', () => {
     Vue.createApp(App).mount('#app'); // Monta Vue en el contenedor con ID "app"
     console.log('Vue.js App initialized successfully.');
 });
+
+
+// Canvi per registrar al commit del projecte GitHub
