@@ -244,3 +244,6 @@ export class PokemonTeamViewModel {
     return team.selectedTeam[randomIndex];
   }
 }
+
+
+// Canvi per enregistrar al commit del projecte GitHub
